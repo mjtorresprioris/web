@@ -1,5 +1,5 @@
 {
-  "name": "minimal-mistakes",
+  "name": "",
   "version": "3.4.2",
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
@@ -11,7 +11,7 @@
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
