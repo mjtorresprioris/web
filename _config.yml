@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic website "
+title                    : "María José Torres-Prioris "
 title_separator          : ""
 name                     : &name ""
-description              : &description "Postdoctoral researcher"
+description              : "Postdoctoral researcher"
 url                      : https://mjtorresprioris.github.io/mjtorresprioris-academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://mjtorresprioris.github.io/mjtorresprioris-academic/"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "María José Torres Prioris"
+  name             : "María José Torres-Prioris, PhD"
   avatar           : "fotoperfil.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Málaga, Spain"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&size=200&term=Torres-Prioris+MJ&cauthor_id=31133908"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.es/citations?user=R0pohRoAAAAJ&hl=es"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Maria_Jose_Torres-Prioris"
   uri              :
