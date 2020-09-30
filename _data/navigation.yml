@@ -11,12 +11,7 @@ main:
     
   - title: "xx1"
     url: /portfolio/
-        
-  - title: "cccx2"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
- - title: "markdown"
-   url: /markdown/
+   
