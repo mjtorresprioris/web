@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/   
+  
+  - title: "xxx0"
+   url: /talks/ 
 
   - title: "Teaching"
     url: /teaching/  
-    
-   # - title: "xxx"
-   # url: /talks/ 
     
   - title: "xx1"
     url: /portfolio/
