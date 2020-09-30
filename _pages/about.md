@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "aXXX"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,35 +8,33 @@ redirect_from:
   - /about.html
 ---
 
+WORKING
 
-Academic persona website
+A data-driven personal website
 ======
-workin page
+WORKING 
 
-
-
-About me
+Getting started
 ======
-workin page
-
+WORKING
 
 
 Site-wide configuration
 ------
-workin page
+WORKING
 
-Site-wide configurationCreate content & metadata
+Create content & metadata
 ------
+WORKING 
 
 
 **Markdown generator**
 
-workin page
+GitHub repository.
 
 How to edit your site's GitHub repository
 ------
-workin page
+
 
 For more info
 ------
-workin page
