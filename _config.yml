@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0003-3795-8151"
-  publons          : "https://publons.com/researcher/3306597/maria-jose-torres-prioris/"
+  publons          : #"https://publons.com/researcher/3306597/maria-jose-torres-prioris/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
