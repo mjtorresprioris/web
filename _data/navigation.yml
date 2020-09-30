@@ -9,14 +9,14 @@ main:
    # - title: "xxx"
    # url: /talks/ 
     
-  - title: "xxx"
+  - title: "xx1"
     url: /portfolio/
         
-  - title: "xxx"
+  - title: "xx2"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "xxx"
+  - title: "xx3"
     url: /markdown/
