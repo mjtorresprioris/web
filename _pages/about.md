@@ -32,3 +32,8 @@ post-ictus, así como de otras alteraciones cognitivas (heminegligencia, défici
 emocionales causadas por el daño cerebral adquirido. Es miembro de la Unidad de Neurología
 y Afasia desde 2014. Desde 2016 es docente en la asignatura de Neuropsicología en el grado
 en Psicología de la Universidad de Málaga.
+
+
+<div id="logo"> 
+            <img src="images/logo.png" /> 
+        </div>   
