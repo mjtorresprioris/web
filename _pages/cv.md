@@ -17,24 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015-2019:  Predoctoral researchet at Unit of cognitive neurology and aphasia (UNCA, www.unca.uma.es)
+* sep 2019- sept 2020: Postdoctoral researcher. University of Málaga
+* sept 2020-current: Postdoctoral researcher at Instituto de Investigación Biomédica de Málaga (IBIMA, www.ibima.eu)
 
 Publications
 ======
@@ -54,6 +39,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Scientific Collaborations
 ======
-* Currently signed in to 43 different slack teams
+* Laboratorio de Psicología Experimental y Neurociencias (LPEN). Fundación INECO (Buenos Aires, Argentina). www.fundacionineco.org/investigacion/laboratorios/lpen/
+
+* Cognition & Brain Plasticity. University of Barcelona (Barcelona, Spain). www.brainvitge.org
