@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Clinical Psychology, University of Malaga, 2014
+* M.S. in Behavioral and Cognitive Neuroscience, University of Granada, Spain, 2015
+* Ph.D in Biomedicine, University of Málaga, 2019
 
 Work experience
 ======
