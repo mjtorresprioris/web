@@ -1,10 +1,8 @@
 ---
 JCR INDEXED JOURNALS
 
-title: "Neurocognitive signatures of phonemic sequencing in expert backward speakers"
 Torres-Prioris, M.J., López-Barroso, D., Cámara E., Fittipaldi, S., Sedeño, L., Ibañez, A. Berthier, M. & García, A (2020). Neurocognitive signatures of phonemic sequencing in expert backward speakers. Scientific reports, 10(1), 1-17.   
-<a href="www.mjtorresprioris-academic/files/paper15_2020.pdf">View Article </a>
-
+<a href="https://github.com/mjtorresprioris/mjtorresprioris-academic/blob/master/files/paper15_2020.pdf">View Article </a>
 
 Torres-Prioris, M. J., López-Barroso, D., Paredes-Pacheco, J., Roé-Vellvé, N., Dawid-Milner, M. S., & Berthier, M. L. (2019). Language as a threat: Multimodal evaluation and interventions for overwhelming linguistic anxiety in severe aphasia. Frontiers in psychology, 10.
 View Article
