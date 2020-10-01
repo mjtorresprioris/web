@@ -41,6 +41,6 @@ Teaching
   
 Scientific Collaborations
 ======
-* Laboratorio de Psicología Experimental y Neurociencias (LPEN). Fundación INECO (Buenos Aires, Argentina). www.fundacionineco.org/investigacion/laboratorios/lpen/
+*  <a href="Laboratorio de Psicología Experimental y Neurociencias (LPEN). Fundación INECO (Buenos Aires, Argentina).">www.fundacionineco.org/investigacion/laboratorios/lpen/</a>
 
 * Cognition & Brain Plasticity. University of Barcelona (Barcelona, Spain). www.brainvitge.org
