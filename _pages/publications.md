@@ -1,12 +1,10 @@
 ---
-permalink: /
-title: "JCR INDEXED JOURNALS"
-excerpt: "publications"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
-  
+---
+
   
   JCR INDEXED JOURNALS
 
@@ -54,4 +52,15 @@ Berthier, M. L., Dávila, G., & Torres-Prioris, M. J. (2017). Echophenomena in a
 
 Berthier, M.L., Dávila, G., & Torres-Prioris, M.J. (2015). Neuropharmacologic Approaches to Aphasia Rehabilitation. En R.H. Bahr & E.R. Silliman (Eds.), Handbook of Communication Disorders. Section I. Genetic, Neurobiological, and Neurophysiological Systems of Communication Impairments (pp. 90-99). New York: Routledge, pp. 90-99.
 
----
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
