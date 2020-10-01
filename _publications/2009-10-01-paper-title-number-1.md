@@ -1,3 +1,4 @@
+
 JCR INDEXED JOURNALS
 
 Torres-Prioris, M.J., López-Barroso, D., Cámara E., Fittipaldi, S., Sedeño, L., Ibañez, A. Berthier, M. & García, A (2020). Neurocognitive signatures of phonemic sequencing in expert backward speakers. Scientific reports, 10(1), 1-17.   
