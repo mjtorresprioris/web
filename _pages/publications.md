@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  
-  JCR INDEXED JOURNALS
+JCR INDEXED JOURNALS
 
 Torres-Prioris, M.J., López-Barroso, D., Cámara E., Fittipaldi, S., Sedeño, L., Ibañez, A. Berthier, M. & García, A (2020). Neurocognitive signatures of phonemic sequencing in expert backward speakers. Scientific reports, 10(1), 1-17.   
 <a href="https://github.com/mjtorresprioris/mjtorresprioris-academic/blob/master/files/paper15_2020.pdf">View Article </a>
@@ -51,7 +50,6 @@ Berthier, M., Dávila, G., Edelkraut, L., López-Barroso, D., Torres-Prioris, M.
 Berthier, M. L., Dávila, G., & Torres-Prioris, M. J. (2017). Echophenomena in aphasia: Causal mechanisms and clues for intervention. En P. Coppens & J. Patterson (Eds.), Aphasia Rehabilitation: Clinical Challenges (pp. 143-172). Burlington, MA: Jones & Bartlett Learning.
 
 Berthier, M.L., Dávila, G., & Torres-Prioris, M.J. (2015). Neuropharmacologic Approaches to Aphasia Rehabilitation. En R.H. Bahr & E.R. Silliman (Eds.), Handbook of Communication Disorders. Section I. Genetic, Neurobiological, and Neurophysiological Systems of Communication Impairments (pp. 90-99). New York: Routledge, pp. 90-99.
-
 
 
 {% if author.googlescholar %}
